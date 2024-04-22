@@ -1,5 +1,7 @@
 # iFood Marketing Campaign
 
+<img src="img/logo-smile-512x512.png" width="500">
+
 ## Summary 
 * [1. About iFood](#1-about-ifood)
 * [2. About the Data](#2-about-the-data)
