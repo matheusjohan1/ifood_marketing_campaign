@@ -1,6 +1,6 @@
 # iFood Marketing Campaign
 
-<img src="img/logo-smile-512x512.png" width="500">
+<img src="img/logo-smile-512x512.png" width="250">
 
 ## Summary 
 * [1. About iFood](#1-about-ifood)
@@ -8,7 +8,7 @@
 * [3. Analysis Objectives](#3-analysis-objectives)
 * [4. Methodology](4#-methodology)
 * [5. Conclusion](5#-conclusion)
-# [6. References](6#-references)
+* [6. References](6#-references)
 
 ## 1. About iFood
 
